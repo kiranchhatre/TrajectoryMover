@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+__pycache__/
+*.pyc
+scripts/regenerate_readme_gifs.sh
+scripts/local_*.sh
